@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background:linear-gradient(#ff0000, #0000ff, #ffff00)
+    background: linear-gradient(#ff0000 0%, #0000ff 90%)
 }
 
 h1 {
@@ -53,13 +53,4 @@ html {
 
 a {
     text-decoration: none;
-}
-
-#The_Boss_Baby_Book {
-    height: 270px;
-    width: auto;
-}
-
-#The_Boss_Baby_Book:hover {
-    transform: scale(0.9);
 }
